@@ -35,9 +35,10 @@ Publish the website in the given URL.
 
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](image-2.png)
 
 ## HOMEPAGE:
+![alt text](image-1.png)
 
 
 ## RESULT:
